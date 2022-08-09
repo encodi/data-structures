@@ -1,0 +1,33 @@
+{
+  "name": "data-structures",
+  "version": "0.0.1",
+  "description": "Project to practice data-structures algorithms",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encodi/data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "data-structures",
+    "structures",
+    "list",
+    "array",
+    "search",
+    "sort",
+    "tree",
+    "graph"
+  ],
+  "author": "Enrique Coronado Diaz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/encodi/data-structures/issues"
+  },
+  "homepage": "https://github.com/encodi/data-structures#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
