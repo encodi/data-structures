@@ -1,5 +1,4 @@
 /**
- * @TODO
  * Merge sorted arrays
  * Create empty array,
  * Check in the two inputs for the smallest value
@@ -38,10 +37,7 @@ function merge(arr1, arr2) {
 
 /**
  * Merge sort
- *
- *
- *
- *
+ * Divide and conquer with recursion
  * Big-O: best case O(n) , worst case O(n^2)
  * @param {Array} arr array to sort
  * @returns {Array} array sorted in ascending order
