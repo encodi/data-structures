@@ -61,3 +61,5 @@ function radixSort(arr) {
     arr = [].concat(...digitBuckets);
   }
 }
+
+module.exports = radixSort;

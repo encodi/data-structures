@@ -1,5 +1,5 @@
 # data-structures
-Repository to practice data-structures search, sort, and other algorithms
+Repository to practice data-structures and algorithms for search, sort, etc...
 
 (WIP)
 ...
